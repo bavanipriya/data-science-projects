@@ -1,2 +1,2 @@
-# data-science-projects
-A portfolio of all my data science and analytics projects
+# Data Science Projects
+This is a portfolio of all my python-based data science/analytics projects!
